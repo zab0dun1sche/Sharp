@@ -15,4 +15,18 @@
 [Задача №4](cycl/cycl4)  
 # 5. Массивы
 [Тест](massiv/massiv.txt)  
-[Задача](massiv/massiv)  
+[Задача](massiv/massiv) 
+# 6. Методы
+[Тест](metod/metod.txt)  
+[Задача № 1](metod/metod1)  
+[Задача № 2](metod/metod2)  
+[Задача № 3](metod/metod3)  
+[Задача № 4](metod/metod4)  
+[Задача № 5](metod/metod5) 
+# 7. Задачи Code Run
+[Задача № 1](code_run/1)  
+[Задача № 2](code_run/2)  
+[Задача № 3](code_run/3)  
+[Задача № 4](code_run/4)  
+[Задача № 5](code_run/5)  
+
