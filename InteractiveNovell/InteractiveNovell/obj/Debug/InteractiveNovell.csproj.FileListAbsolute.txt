@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\InteractiveNovell\InteractiveNovell\bin\Debug\InteractiveNovell.exe.config
+C:\Users\user\Desktop\InteractiveNovell\InteractiveNovell\bin\Debug\InteractiveNovell.exe
+C:\Users\user\Desktop\InteractiveNovell\InteractiveNovell\bin\Debug\InteractiveNovell.pdb
+C:\Users\user\Desktop\InteractiveNovell\InteractiveNovell\obj\Debug\InteractiveNovell.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\InteractiveNovell\InteractiveNovell\obj\Debug\InteractiveNovell.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\InteractiveNovell\InteractiveNovell\obj\Debug\InteractiveNovell.exe
+C:\Users\user\Desktop\InteractiveNovell\InteractiveNovell\obj\Debug\InteractiveNovell.pdb
