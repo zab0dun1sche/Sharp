@@ -13,3 +13,6 @@
 [Задача №2](cycl/cycl2)  
 [Задача №3](cycl/cycl3)  
 [Задача №4](cycl/cycl4)  
+# 5. Массивы
+[Тест](massiv/massiv.txt)  
+[Задача](massiv/massiv)  
