@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\cycl\cycl2\cycl2\bin\Debug\cycl2.exe.config
+C:\Users\user\Desktop\cycl\cycl2\cycl2\bin\Debug\cycl2.exe
+C:\Users\user\Desktop\cycl\cycl2\cycl2\bin\Debug\cycl2.pdb
+C:\Users\user\Desktop\cycl\cycl2\cycl2\obj\Debug\cycl2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\cycl\cycl2\cycl2\obj\Debug\cycl2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cycl\cycl2\cycl2\obj\Debug\cycl2.exe
+C:\Users\user\Desktop\cycl\cycl2\cycl2\obj\Debug\cycl2.pdb

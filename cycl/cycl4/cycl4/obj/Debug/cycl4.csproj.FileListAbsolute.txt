@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\cycl\cycl4\cycl4\bin\Debug\cycl4.exe.config
+C:\Users\user\Desktop\cycl\cycl4\cycl4\bin\Debug\cycl4.exe
+C:\Users\user\Desktop\cycl\cycl4\cycl4\bin\Debug\cycl4.pdb
+C:\Users\user\Desktop\cycl\cycl4\cycl4\obj\Debug\cycl4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\cycl\cycl4\cycl4\obj\Debug\cycl4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\cycl\cycl4\cycl4\obj\Debug\cycl4.exe
+C:\Users\user\Desktop\cycl\cycl4\cycl4\obj\Debug\cycl4.pdb
