@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\krestiki\krestiki\bin\Debug\krestiki.exe.config
+C:\Users\user\Desktop\krestiki\krestiki\bin\Debug\krestiki.exe
+C:\Users\user\Desktop\krestiki\krestiki\bin\Debug\krestiki.pdb
+C:\Users\user\Desktop\krestiki\krestiki\obj\Debug\krestiki.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\krestiki\krestiki\obj\Debug\krestiki.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\krestiki\krestiki\obj\Debug\krestiki.exe
+C:\Users\user\Desktop\krestiki\krestiki\obj\Debug\krestiki.pdb
