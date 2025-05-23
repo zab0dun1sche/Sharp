@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\provodnik\provodnik\bin\Debug\provodnik.exe.config
+C:\Users\user\Desktop\provodnik\provodnik\bin\Debug\provodnik.exe
+C:\Users\user\Desktop\provodnik\provodnik\bin\Debug\provodnik.pdb
+C:\Users\user\Desktop\provodnik\provodnik\obj\Debug\provodnik.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\provodnik\provodnik\obj\Debug\provodnik.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\provodnik\provodnik\obj\Debug\provodnik.exe
+C:\Users\user\Desktop\provodnik\provodnik\obj\Debug\provodnik.pdb
