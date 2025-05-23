@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\metod\metod4\metod4\bin\Debug\metod4.exe.config
+C:\Users\user\Desktop\metod\metod4\metod4\bin\Debug\metod4.exe
+C:\Users\user\Desktop\metod\metod4\metod4\bin\Debug\metod4.pdb
+C:\Users\user\Desktop\metod\metod4\metod4\obj\Debug\metod4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\metod\metod4\metod4\obj\Debug\metod4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\metod\metod4\metod4\obj\Debug\metod4.exe
+C:\Users\user\Desktop\metod\metod4\metod4\obj\Debug\metod4.pdb

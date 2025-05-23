@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\metod\metod3\metod3\bin\Debug\metod3.exe.config
+C:\Users\user\Desktop\metod\metod3\metod3\bin\Debug\metod3.exe
+C:\Users\user\Desktop\metod\metod3\metod3\bin\Debug\metod3.pdb
+C:\Users\user\Desktop\metod\metod3\metod3\obj\Debug\metod3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\metod\metod3\metod3\obj\Debug\metod3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\metod\metod3\metod3\obj\Debug\metod3.exe
+C:\Users\user\Desktop\metod\metod3\metod3\obj\Debug\metod3.pdb
