@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\massiv\massiv\massiv\bin\Debug\massiv.exe.config
+C:\Users\user\Desktop\massiv\massiv\massiv\bin\Debug\massiv.exe
+C:\Users\user\Desktop\massiv\massiv\massiv\bin\Debug\massiv.pdb
+C:\Users\user\Desktop\massiv\massiv\massiv\obj\Debug\massiv.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\massiv\massiv\massiv\obj\Debug\massiv.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\massiv\massiv\massiv\obj\Debug\massiv.exe
+C:\Users\user\Desktop\massiv\massiv\massiv\obj\Debug\massiv.pdb
